@@ -1,0 +1,6 @@
+{
+  "name": "critical-css-injector",
+  "main": "worker.js",
+  "compatibility_date": "2026-02-02",
+  "compatibility_flags": ["nodejs_compat"]
+}
